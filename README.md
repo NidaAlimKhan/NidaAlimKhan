@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nida Alim Khan</h1>
-<h3 align="center">A Student and a Homeopathic Doctor from Pakistan</h3>
+<h3 align="center">A Student and A Homeopathic Doctor from Pakistan</h3>
 
 - 🔭 I’m currently working on **Coding**
 
